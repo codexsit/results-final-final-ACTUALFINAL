@@ -59,7 +59,7 @@ function App() {
           // Redirect 3 seconds after text appears
           setTimeout(() => {
             window.location.href =
-              "https://docs.google.com/spreadsheets/d/19lVx4uIWtJrH2FoU61iz7ehd1M4ZVVwNO8qhl8LSsfY/edit?usp=sharing";
+              "https://docs.google.com/spreadsheets/d/1ku3muf10AUSagq1LCeY5c8uurwr0Yixov0Kb5NCWO3I/edit?usp=sharing";
           }, 3000);
         }, 1000);
       }, 3000);
@@ -194,7 +194,7 @@ function App() {
           }}
         >
           <video
-            src="media/Get Stick Bugged lol.mp4"
+            src="media\get_trumputinned_lol.mp4"
             autoPlay
             loop
             className="video-message"

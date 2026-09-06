@@ -59,7 +59,7 @@ function App() {
           // Redirect 3 seconds after text appears
           setTimeout(() => {
             window.location.href =
-              "https://docs.google.com/spreadsheets/d/1ku3muf10AUSagq1LCeY5c8uurwr0Yixov0Kb5NCWO3I/edit?usp=sharing";
+              "https://docs.google.com/spreadsheets/d/1qZyVJKzbJ7XOsoQhe2W9LmD2Q2_hF9eu1x9GwFkEx7A/edit?usp=sharing";
           }, 3000);
         }, 1000);
       }, 3000);
